@@ -1,4 +1,4 @@
-### Hi there 👋
+### I study the physiological and evolutionary dimensions of plant ecology that influence community assembly and ecosystem function. I am very interested in the genetic and evolutionary basis of variation in plant phenotypes and spectral properties that can advance remote sensing of biodiversity. I am committed to advancing spectral biology to help understand and monitor the diversity of our living ecosystems. My goal is contribute to active management to maintain a habitable planet for humanity.
 
 <!--
 **cavender/cavender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
